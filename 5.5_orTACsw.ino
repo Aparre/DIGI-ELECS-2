@@ -1,17 +1,17 @@
-int name = 2; //digital
-int nameLed = 4; //digital pin
+int ulp = 2; //digital
+int ulpLed = 4; //digital pin
 void setup() {
-  pinMode(name, INPUT);
-  pinMode(nameLed, OUTPUT);
+  pinMode(ulp, INPUT);
+  pinMode(ulpLed, OUTPUT);
   Serial.begin(9600);
 }
 
 void loop() {
-  int SwLevel = digitalRead(name);
+  int SwLevel = digitalRead(ulp);
   if (SwLevel == LOW)
-    digitalWrite(nameLed, HIGH);
+    digitalWrite(ulpLed, HIGH);
   else
-    digitalWrite(nameLed, LOW);
+    digitalWrite(ulpLed, LOW);
   Serial.print("Switch: ");
   Serial.println(SwLevel);
 }
