@@ -1,11 +1,11 @@
-int name = A0;
+int ulp = A0;
 void setup() {
-  pinMode(name, INPUT);
+  pinMode(ulp, INPUT);
   Serial.begin(9600);
 }
 
 void loop() {
-  int SwLevel = analogRead(name);
+  int SwLevel = analogRead(ulp);
   Serial.print("Switch: ");
   Serial.println(SwLevel);
   delay(300);
