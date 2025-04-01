@@ -11,9 +11,8 @@ ACTIVITY 3 - POTENTIOMETER
   .1 potentio volt -
   .2 potentio controlled fade -
 ACTIVITY 4 - LDR (light dependent resistor)
-  .1 voltage read - 
-  .2 ldr led on off -
-  .3 ldr led fading -
+  .1 voltage read -
+  .2 ldr led fading -
 ACTIVITY 5 - tact switch
   .1 serial -  
   .2 on off -
