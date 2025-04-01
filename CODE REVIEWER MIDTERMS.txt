@@ -3,7 +3,8 @@ MICROPROCESSOR AND MICROCONTROLLER
 ACTIVITY [NO] - [STAR COMPONENT]
 
 ACTIVITY 1 - ARDUINO
-  .1 LED_buitlin on off serial -
+  .1 LED_buitlin on off -
+  .2 LED_builtin on off serial -
 ACTIVITY 2 - LED
   .1 fade -
   .2 fade in out -
