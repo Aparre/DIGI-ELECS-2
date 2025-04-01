@@ -8,7 +8,7 @@ void setup() {
 
 void loop() {
   int SwLevel = digitalRead(name);
-  if (SwLevel == LOW)
+  if (SwLevel == HIGH)
     digitalWrite(nameLed, HIGH);
   else
     digitalWrite(nameLed, LOW);
