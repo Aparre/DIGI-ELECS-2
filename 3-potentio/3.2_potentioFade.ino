@@ -1,3 +1,4 @@
+// if the knob turn is reversed or not following the chosen  
 int nat = A0;                   //store analog pin A0 to variable nat
 int natled = 3;                 //set digital pin 3 for led
 //choose digital pin with ~ or capable for sending PWM signals
