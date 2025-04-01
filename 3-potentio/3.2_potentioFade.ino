@@ -1,4 +1,6 @@
-// if the knob turn is reversed or not following the chosen  
+// if the knob turn is reversed or not following the chosen side to turn you can:
+// exchange min1 to max1 or exchange the 5v and gnd connection of the potentiometer
+
 int nat = A0;                   //store analog pin A0 to variable nat
 int natled = 3;                 //set digital pin 3 for led
 //choose digital pin with ~ or capable for sending PWM signals
