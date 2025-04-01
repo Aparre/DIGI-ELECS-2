@@ -1,5 +1,5 @@
 int nat = A0;                   //store analog pin A0 to variable nat
-int natled = 2;                 //digital pin 2 for LED
+int natled = 3;                 //digital pin 3 for LED : use PWM pins
 int x = 940;                    //lower boundary of when the LDR is lit
 int y = 980;                    //higher boundary of when the LDR is shaded
 
