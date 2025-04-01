@@ -16,6 +16,7 @@ void loop() {
         ulpState = !ulpState;
         digitalWrite(ulpLed, ulpState);
 
+      // ALL OF THIS ARE FOR DEBUGGING PURPOSES
         Serial.print("cState: ");
         Serial.print(cState);
         Serial.print("  ");
