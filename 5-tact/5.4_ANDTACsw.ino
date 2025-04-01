@@ -11,7 +11,7 @@ void setup() {
 void loop() {
   int SwLevel = digitalRead(name);
   int Sw2Level = digitalRead(name2);
-  if (SwLevel == LOW && Sw2Level == LOW)
+  if (SwLevel == HIGH && Sw2Level == HIGH)
     digitalWrite(nameLed, HIGH);
   else
     digitalWrite(nameLed, LOW);
