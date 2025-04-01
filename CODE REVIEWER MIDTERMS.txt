@@ -6,8 +6,7 @@ ACTIVITY 1 - ARDUINO
   .1 LED_buitlin on off -
   .2 LED_builtin on off serial -
 ACTIVITY 2 - LED
-  .1 fade -
-  .2 fade in out -
+  .1 fade in out serial-
 ACTIVITY 3 - POTENTIOMETER
   .1 potentio volt -
   .2 led brigthness -
