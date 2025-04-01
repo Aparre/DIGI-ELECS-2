@@ -1,0 +1,18 @@
+MICROPROCESSOR AND MICROCONTROLLER 
+
+ACTIVITY [NO] - [STAR COMPONENT]
+
+ACTIVITY 1 - 
+ACTIVITY 2 - 
+ACTIVITY 3 - 
+ACTIVITY 4 - 
+ACTIVITY 5 - tact switch
+  .1 serial -  
+  .2 on off -
+  .3 not
+  .4 and
+  .5 or
+  6. toggle
+
+ACTIVITY 6 - 
+ACTIVITY 7 - 
