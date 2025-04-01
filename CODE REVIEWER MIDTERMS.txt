@@ -2,12 +2,18 @@ MICROPROCESSOR AND MICROCONTROLLER
 
 ACTIVITY [NO] - [STAR COMPONENT]
 
-ACTIVITY __ - 
-ACTIVITY __ - 
-ACTIVITY __ - 
+ACTIVITY 1 - ARDUINO
+  .1 LED_buitlin on off serial -
+ACTIVITY 2 - LED
+  .1 fade -
+  .2 fade in out -
+ACTIVITY 3 - POTENTIOMETER
+  .1 potentio volt -
+  .2 led brigthness -
 ACTIVITY 4 - LDR (light dependent resistor)
-  .1 
-  .2 
+  .1 voltage read - 
+  .2 ldr led on off -
+  .3 ldr led fading -
 ACTIVITY 5 - tact switch
   .1 serial -  
   .2 on off -
