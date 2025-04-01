@@ -3,29 +3,33 @@ MICROPROCESSOR AND MICROCONTROLLER
 ACTIVITY [NO] - [STAR COMPONENT]
 
 ACTIVITY 1 - ARDUINO
-  .1 LED_buitlin on off -
-  .2 LED_builtin on off serial -
+      .1 LED_buitlin on off 
+      .2 LED_builtin on off serial
+
 ACTIVITY 2 - LED
-  .1 fade in out serial-
+      .1 fade in out seria
+
 ACTIVITY 3 - POTENTIOMETER
-  .1 potentio volt -
-  .2 potentio controlled fade -
+      .1 potentio volt
+      .2 potentio controlled fade
+
 ACTIVITY 4 - LDR (light dependent resistor)
-  .1 voltage read -
-  .2 ldr led fading -
+      .1 voltage read
+      .2 ldr led fading
+
 ACTIVITY 5 - tact switch
-  .1 serial -  
-  .2 on off -
-  .3 not -
-  .4 and -
-  .5 or -
-  6. toggle -
+      .1 serial
+      .2 on off
+      .3 not
+      .4 and
+      .5 or
+      .6 toggle
 
 ACTIVITY 6 - LCD (liquidcrystal display)
-  ._ LDR - 
-  ._ Ultrasonic - 
+      .1 LDR
+      .2 Ultrasonic
+      .3 Ultrasonic Leds
 note: SCL == A5 : clock line, SDA == A4 : data line
+ 
 
-ACTIVITY __ - 
-
-since di natin kabisado yung mga meron lang muna
+**since di natin kabisado yung mga meron lang muna**
