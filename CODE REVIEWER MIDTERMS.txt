@@ -9,7 +9,7 @@ ACTIVITY 2 - LED
   .1 fade in out serial-
 ACTIVITY 3 - POTENTIOMETER
   .1 potentio volt -
-  .2 led brigthness -
+  .2 potentio controlled fade -
 ACTIVITY 4 - LDR (light dependent resistor)
   .1 voltage read - 
   .2 ldr led on off -
