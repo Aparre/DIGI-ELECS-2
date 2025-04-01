@@ -7,7 +7,8 @@ void setup() {
 }
 // the loop function runs over and over again forever
 void loop() {
-  int ledState = digitalRead(led);
+  int ledState = digitalRead(led);   //reads the state of the led
+  //condition wherein the led turns off when the read state is High and vice versa
   if (ledState == HIGH) {
     digitalWrite(led, LOW);          //set the led to LOW state or OFF state
   }
