@@ -2,17 +2,25 @@ MICROPROCESSOR AND MICROCONTROLLER
 
 ACTIVITY [NO] - [STAR COMPONENT]
 
-ACTIVITY 1 - 
-ACTIVITY 2 - 
-ACTIVITY 3 - 
-ACTIVITY 4 - 
+ACTIVITY __ - 
+ACTIVITY __ - 
+ACTIVITY __ - 
+ACTIVITY 4 - LDR (light dependent resistor)
+  .1 
+  .2 
 ACTIVITY 5 - tact switch
   .1 serial -  
   .2 on off -
-  .3 not
-  .4 and
-  .5 or
-  6. toggle
+  .3 not -
+  .4 and -
+  .5 or -
+  6. toggle -
 
-ACTIVITY 6 - 
-ACTIVITY 7 - 
+ACTIVITY 6 - LCD (liquidcrystal display)
+  ._ LDR - 
+  ._ Ultrasonic - 
+note: SCL == A5 : clock line, SDA == A4 : data line
+
+ACTIVITY __ - 
+
+since di natin kabisado yung mga meron lang muna
